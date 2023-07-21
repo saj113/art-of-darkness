@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+л верх ч зад лапы 1
+  rotate: false
+  xy: 1255, 827
+  size: 227, 142
+  orig: 227, 142
+  offset: 0, 0
+  index: -1
+л верх ч зад лапы 2
+  rotate: true
+  xy: 344, 30
+  size: 227, 142
+  orig: 227, 142
+  offset: 0, 0
+  index: -1
+л верх ч пер лапы
+  rotate: false
+  xy: 1713, 827
+  size: 198, 142
+  orig: 198, 142
+  offset: 0, 0
+  index: -1
+л ниж ч зад лапы
+  rotate: true
+  xy: 1913, 827
+  size: 142, 113
+  orig: 142, 113
+  offset: 0, 0
+  index: -1
+л ниж ч пер лапы
+  rotate: false
+  xy: 544, 370
+  size: 142, 113
+  orig: 142, 113
+  offset: 0, 0
+  index: -1
+п ниж ч пер лапы
+  rotate: false
+  xy: 544, 370
+  size: 142, 113
+  orig: 142, 113
+  offset: 0, 0
+  index: -1
+л ср ч зад лапы
+  rotate: true
+  xy: 544, 283
+  size: 85, 142
+  orig: 85, 142
+  offset: 0, 0
+  index: -1
+л ср ч пер лапы
+  rotate: true
+  xy: 1255, 683
+  size: 142, 227
+  orig: 142, 227
+  offset: 0, 0
+  index: -1
+морда
+  rotate: false
+  xy: 2, 344
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+морда 2
+  rotate: false
+  xy: 2, 2
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+морда 3
+  rotate: false
+  xy: 571, 629
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+морда 4
+  rotate: false
+  xy: 913, 629
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+п верх ч зад лапы 1
+  rotate: false
+  xy: 1484, 827
+  size: 227, 142
+  orig: 227, 142
+  offset: 0, 0
+  index: -1
+п верх ч зад лапы 2
+  rotate: false
+  xy: 1713, 683
+  size: 198, 142
+  orig: 198, 142
+  offset: 0, 0
+  index: -1
+п верх ч пер лапы
+  rotate: false
+  xy: 544, 485
+  size: 198, 142
+  orig: 198, 142
+  offset: 0, 0
+  index: -1
+п н ч зад лапы
+  rotate: false
+  xy: 744, 514
+  size: 142, 113
+  orig: 142, 113
+  offset: 0, 0
+  index: -1
+п ср ч зад лапы
+  rotate: true
+  xy: 1913, 683
+  size: 142, 113
+  orig: 142, 113
+  offset: 0, 0
+  index: -1
+п ср ч пер лапы
+  rotate: true
+  xy: 1484, 683
+  size: 142, 227
+  orig: 142, 227
+  offset: 0, 0
+  index: -1
+тело
+  rotate: false
+  xy: 2, 686
+  size: 567, 283
+  orig: 567, 283
+  offset: 0, 0
+  index: -1
+хвост
+  rotate: true
+  xy: 344, 259
+  size: 425, 198
+  orig: 425, 198
+  offset: 0, 0
+  index: -1

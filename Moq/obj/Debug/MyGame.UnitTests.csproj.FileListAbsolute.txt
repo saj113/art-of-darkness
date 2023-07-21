@@ -1,0 +1,14 @@
+D:\Projects\MyGame\Moq\bin\Debug\Moq.dll
+D:\Projects\MyGame\Moq\bin\Debug\Moq.pdb
+D:\Projects\MyGame\Moq\bin\Debug\Assembly-CSharp.dll
+D:\Projects\MyGame\Moq\bin\Debug\nunit.framework.dll
+D:\Projects\MyGame\Moq\bin\Debug\UnityEngine.dll
+D:\Projects\MyGame\Moq\bin\Debug\UnityEngine.UI.dll
+D:\Projects\MyGame\Moq\bin\Debug\UnityEditor.dll
+D:\Projects\MyGame\Moq\bin\Debug\Assembly-CSharp.pdb
+D:\Projects\MyGame\Moq\bin\Debug\UnityEngine.xml
+D:\Projects\MyGame\Moq\bin\Debug\UnityEngine.UI.xml
+D:\Projects\MyGame\Moq\bin\Debug\UnityEditor.xml
+D:\Projects\MyGame\Moq\obj\Debug\MyGame.UnitTests.csprojResolveAssemblyReference.cache
+D:\Projects\MyGame\Moq\obj\Debug\Moq.dll
+D:\Projects\MyGame\Moq\obj\Debug\Moq.pdb

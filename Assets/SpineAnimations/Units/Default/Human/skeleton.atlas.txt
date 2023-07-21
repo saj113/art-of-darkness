@@ -1,0 +1,531 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Б палец п руки
+  rotate: true
+  xy: 2, 17
+  size: 28, 71
+  orig: 28, 71
+  offset: 0, 0
+  index: -1
+Б палец п руки
+  rotate: true
+  xy: 2, 17
+  size: 28, 71
+  orig: 28, 71
+  offset: 0, 0
+  index: -1
+Б палец п руки
+  rotate: true
+  xy: 2, 17
+  size: 28, 71
+  orig: 28, 71
+  offset: 0, 0
+  index: -1
+Б палец п руки
+  rotate: true
+  xy: 2, 17
+  size: 28, 71
+  orig: 28, 71
+  offset: 0, 0
+  index: -1
+голова
+  rotate: false
+  xy: 762, 104
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+голова
+  rotate: false
+  xy: 762, 104
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+голова
+  rotate: false
+  xy: 762, 104
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+голова
+  rotate: false
+  xy: 762, 104
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+л бедро
+  rotate: false
+  xy: 862, 736
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+л бедро
+  rotate: false
+  xy: 862, 736
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+л бедро
+  rotate: false
+  xy: 862, 736
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+л бедро
+  rotate: false
+  xy: 862, 736
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+л верх часть руки
+  rotate: false
+  xy: 629, 219
+  size: 85, 142
+  orig: 85, 142
+  offset: 0, 0
+  index: -1
+л верх часть руки
+  rotate: false
+  xy: 629, 219
+  size: 85, 142
+  orig: 85, 142
+  offset: 0, 0
+  index: -1
+л верх часть руки
+  rotate: false
+  xy: 629, 219
+  size: 85, 142
+  orig: 85, 142
+  offset: 0, 0
+  index: -1
+л верх часть руки
+  rotate: false
+  xy: 629, 219
+  size: 85, 142
+  orig: 85, 142
+  offset: 0, 0
+  index: -1
+л голень
+  rotate: true
+  xy: 2, 47
+  size: 170, 255
+  orig: 170, 255
+  offset: 0, 0
+  index: -1
+л голень
+  rotate: true
+  xy: 2, 47
+  size: 170, 255
+  orig: 170, 255
+  offset: 0, 0
+  index: -1
+л голень
+  rotate: true
+  xy: 2, 47
+  size: 170, 255
+  orig: 170, 255
+  offset: 0, 0
+  index: -1
+л голень
+  rotate: true
+  xy: 2, 47
+  size: 170, 255
+  orig: 170, 255
+  offset: 0, 0
+  index: -1
+л кисть
+  rotate: false
+  xy: 516, 75
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+л кисть
+  rotate: false
+  xy: 516, 75
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+л кисть согнутая
+  rotate: true
+  xy: 862, 369
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+л кисть согнутая
+  rotate: true
+  xy: 862, 369
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+л кисть согнутая
+  rotate: true
+  xy: 862, 369
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+л кисть согнутая
+  rotate: true
+  xy: 862, 369
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+л нижн часть руки
+  rotate: false
+  xy: 716, 219
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+л нижн часть руки
+  rotate: false
+  xy: 716, 219
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+л нижн часть руки
+  rotate: false
+  xy: 716, 219
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+л нижн часть руки
+  rotate: false
+  xy: 716, 219
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+л ступня
+  rotate: false
+  xy: 880, 228
+  size: 128, 57
+  orig: 128, 57
+  offset: 0, 0
+  index: -1
+л ступня
+  rotate: false
+  xy: 880, 228
+  size: 128, 57
+  orig: 128, 57
+  offset: 0, 0
+  index: -1
+л ступня
+  rotate: false
+  xy: 880, 228
+  size: 128, 57
+  orig: 128, 57
+  offset: 0, 0
+  index: -1
+л ступня
+  rotate: false
+  xy: 880, 228
+  size: 128, 57
+  orig: 128, 57
+  offset: 0, 0
+  index: -1
+п бедро
+  rotate: true
+  xy: 344, 219
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+п бедро
+  rotate: true
+  xy: 344, 219
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+п бедро
+  rotate: true
+  xy: 344, 219
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+п бедро
+  rotate: true
+  xy: 344, 219
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+п верх часть руки
+  rotate: false
+  xy: 598, 75
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п верх часть руки
+  rotate: false
+  xy: 598, 75
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п верх часть руки
+  rotate: false
+  xy: 598, 75
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п верх часть руки
+  rotate: false
+  xy: 598, 75
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п голень
+  rotate: true
+  xy: 259, 47
+  size: 170, 255
+  orig: 170, 255
+  offset: 0, 0
+  index: -1
+п голень
+  rotate: true
+  xy: 259, 47
+  size: 170, 255
+  orig: 170, 255
+  offset: 0, 0
+  index: -1
+п голень
+  rotate: true
+  xy: 259, 47
+  size: 170, 255
+  orig: 170, 255
+  offset: 0, 0
+  index: -1
+п голень
+  rotate: true
+  xy: 259, 47
+  size: 170, 255
+  orig: 170, 255
+  offset: 0, 0
+  index: -1
+п кисть
+  rotate: false
+  xy: 680, 75
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п кисть
+  rotate: false
+  xy: 680, 75
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п кисть
+  rotate: false
+  xy: 680, 75
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п кисть
+  rotate: false
+  xy: 680, 75
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п кисть согнутая
+  rotate: false
+  xy: 798, 219
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п кисть согнутая
+  rotate: false
+  xy: 798, 219
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п кисть согнутая
+  rotate: false
+  xy: 798, 219
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п кисть согнутая
+  rotate: false
+  xy: 798, 219
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п ниж часть руки
+  rotate: true
+  xy: 880, 287
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п ниж часть руки
+  rotate: true
+  xy: 880, 287
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п ниж часть руки
+  rotate: true
+  xy: 880, 287
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п ниж часть руки
+  rotate: true
+  xy: 880, 287
+  size: 80, 142
+  orig: 80, 142
+  offset: 0, 0
+  index: -1
+п ступня
+  rotate: false
+  xy: 516, 16
+  size: 128, 57
+  orig: 128, 57
+  offset: 0, 0
+  index: -1
+п ступня
+  rotate: false
+  xy: 516, 16
+  size: 128, 57
+  orig: 128, 57
+  offset: 0, 0
+  index: -1
+п ступня
+  rotate: false
+  xy: 516, 16
+  size: 128, 57
+  orig: 128, 57
+  offset: 0, 0
+  index: -1
+п ступня
+  rotate: false
+  xy: 516, 16
+  size: 128, 57
+  orig: 128, 57
+  offset: 0, 0
+  index: -1
+тело
+  rotate: false
+  xy: 862, 451
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+тело
+  rotate: false
+  xy: 862, 451
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+тело
+  rotate: false
+  xy: 862, 451
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+тело
+  rotate: false
+  xy: 862, 451
+  size: 142, 283
+  orig: 142, 283
+  offset: 0, 0
+  index: -1
+шея
+  rotate: false
+  xy: 646, 16
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+шея
+  rotate: false
+  xy: 646, 16
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+шея
+  rotate: false
+  xy: 646, 16
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+шея
+  rotate: false
+  xy: 646, 16
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+меч
+  rotate: false
+  xy: 2, 219
+  size: 340, 142
+  orig: 340, 142
+  offset: 0, 0
+  index: -1
+меч 2
+  rotate: false
+  xy: 2, 219
+  size: 340, 142
+  orig: 340, 142
+  offset: 0, 0
+  index: -1
+шит
+  rotate: true
+  xy: 762, 2
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+посох
+  rotate: false
+  xy: 2, 363
+  size: 858, 656
+  orig: 858, 656
+  offset: 0, 0
+  index: -1
+посох
+  rotate: false
+  xy: 2, 363
+  size: 858, 656
+  orig: 858, 656
+  offset: 0, 0
+  index: -1

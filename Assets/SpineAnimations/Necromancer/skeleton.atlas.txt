@@ -1,0 +1,160 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Л рука-меч
+  rotate: false
+  xy: 2, 2
+  size: 240, 361
+  orig: 240, 361
+  offset: 0, 0
+  index: -1
+голова
+  rotate: false
+  xy: 1825, 907
+  size: 86, 114
+  orig: 86, 114
+  offset: 0, 0
+  index: -1
+л бедро
+  rotate: false
+  xy: 1063, 395
+  size: 85, 142
+  orig: 85, 142
+  offset: 0, 0
+  index: -1
+л в ч руки
+  rotate: false
+  xy: 1738, 735
+  size: 85, 113
+  orig: 85, 113
+  offset: 0, 0
+  index: -1
+л голень
+  rotate: false
+  xy: 244, 77
+  size: 85, 142
+  orig: 85, 142
+  offset: 0, 0
+  index: -1
+л кисть
+  rotate: false
+  xy: 1150, 480
+  size: 113, 57
+  orig: 113, 57
+  offset: 0, 0
+  index: -1
+л н ч руки
+  rotate: false
+  xy: 862, 365
+  size: 85, 28
+  orig: 85, 28
+  offset: 0, 0
+  index: -1
+л ступня
+  rotate: false
+  xy: 244, 18
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+п бедро
+  rotate: true
+  xy: 1509, 622
+  size: 85, 198
+  orig: 85, 198
+  offset: 0, 0
+  index: -1
+п бедро 2
+  rotate: false
+  xy: 1738, 850
+  size: 85, 171
+  orig: 85, 171
+  offset: 0, 0
+  index: -1
+п в ч руки
+  rotate: false
+  xy: 244, 221
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+п голень
+  rotate: false
+  xy: 388, 221
+  size: 85, 142
+  orig: 85, 142
+  offset: 0, 0
+  index: -1
+п голень2я
+  rotate: true
+  xy: 1509, 563
+  size: 57, 142
+  orig: 57, 142
+  offset: 0, 0
+  index: -1
+п кисть
+  rotate: false
+  xy: 331, 162
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+п н ч руки
+  rotate: false
+  xy: 475, 306
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+п ступня
+  rotate: false
+  xy: 1825, 848
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+п ступня 2
+  rotate: false
+  xy: 1913, 964
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+плащ
+  rotate: false
+  xy: 1509, 709
+  size: 227, 312
+  orig: 227, 312
+  offset: 0, 0
+  index: -1
+посох
+  rotate: false
+  xy: 2, 365
+  size: 858, 656
+  orig: 858, 656
+  offset: 0, 0
+  index: -1
+след 2
+  rotate: false
+  xy: 862, 539
+  size: 645, 482
+  orig: 645, 482
+  offset: 0, 0
+  index: -1
+след 4
+  rotate: false
+  xy: 862, 539
+  size: 645, 482
+  orig: 645, 482
+  offset: 0, 0
+  index: -1
+тело 2
+  rotate: true
+  xy: 862, 395
+  size: 142, 199
+  orig: 142, 199
+  offset: 0, 0
+  index: -1
